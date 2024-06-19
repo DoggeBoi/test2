@@ -98,6 +98,7 @@ int main(void)
   while (1)
   {
 	 // TEST CHANGE!!!!
+	 // TEST CAHANGE FROM UBUNTU VM!
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
